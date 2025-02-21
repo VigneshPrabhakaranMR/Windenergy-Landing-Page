@@ -19,8 +19,6 @@ WindPower is a modern, clean, and interactive UI/UX design for a renewable energ
 💡 **User-Centered Experience** – Intuitive and accessible navigation  
 🎥 **Media Integration** – Embedded video & interactive components  
 
-## 📷 Preview
-*(Include images/screenshots here)*
 
 ## 🔗 Connect With Me
 🌐 **Portfolio:** [vigneshprabhakaran.onrender.com](https://vigneshprabhakaran.onrender.com/)  
